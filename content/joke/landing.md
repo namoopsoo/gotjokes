@@ -6,9 +6,8 @@ draft: false
 
 # ok
 
-{{ range $.Site.Data.jokesDb.yaml }}
-  {{ partial "oneliners.html" . }}
-{{ end }}
+{{< fooshortcode />}}
 
+cool
 
 
