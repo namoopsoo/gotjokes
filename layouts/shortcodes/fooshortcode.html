@@ -1,5 +1,5 @@
 stuff
-{{ range $.Site.Data.jokesDb.yaml }}
+{{ range $.Site.Data }}
   {{ partial "oneliners.html" . }}
 {{ end }}
 
