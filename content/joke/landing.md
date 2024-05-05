@@ -6,7 +6,7 @@ draft: false
 
 # ok
 
-{{< fooshortcode />}}
+{{< fooshortcode >}}
 
 cool
 
