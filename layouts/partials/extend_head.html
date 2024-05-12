@@ -8,9 +8,30 @@
 <script>
 window.addEventListener("DOMContentLoaded", (event) => {
 
-    document.getElementById ("sublinks").addEventListener ("click", () => {
-       document.getElementById("media_image").classList.toggle('showMe')
-    }, false);
+//    document.getElementByClassName("joke").addEventListener ("click", () => {
+//       document.getElementById("punchline").classList.toggle('showMe')
+//    }, false);
+// Get all elements with class "joke"
+const jokeLinks = document.getElementsByClassName("joke");
+
+// Loop through each "joke" link and attach an event listener
+for (let i = 0; i < jokeLinks.length; i++) {
+    jokeLinks[i].addEventListener("click", function() {
+        // Get the corresponding "punchline" div
+        console.log("found this:");
+        console.log(this);
+        console.log("mmkay");
+        const punchline = this.nextElementSibling;
+        console.log("sibling:");
+        console.log(punchline);
+        console.log("mmkay");
+
+
+        // Toggle the "showMe" class on the "punchline" div
+        punchline.classList.toggle('showMe');
+    });
+}
+
 });
 </script>
 
