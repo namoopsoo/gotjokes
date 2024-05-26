@@ -1,0 +1,14 @@
+baseURL: 'https://michal.piekarczyk.xyz/gotjokes'
+title: 'Got Jokes?'
+languageCode: = 'en-us'
+theme: PaperMod
+paginate: 5
+
+buildDrafts: true
+
+params:
+  mainSections:
+    - post
+    - joke
+
+  
