@@ -1,5 +1,442 @@
 jokes:
-  - what: "how did the chicken"
-    punchline: "oh thats easy."
-  - what: "whats in a joke"
-    punchline: "find out."
+  - author: Michal Piekarczyk
+    created_at: '2014-12-30'
+    punchline: An erroar
+    what: whats an angry system error
+  - author: Michal Piekarczyk
+    created_at: '2015-01-08'
+    punchline: The Blow back
+    what: when offending dolphins what do you always worry about
+  - author: Michal Piekarczyk
+    created_at: '2014-12-11'
+    punchline: They sammuraize the details.
+    what: how do samurai tell you about their day
+  - author: Michal Piekarczyk
+    created_at: '2015-02-08'
+    punchline: Cabbaggage
+    what: what vegetables are so great they may end up weighing you down when you have
+      too many
+  - author: Michal Piekarczyk
+    created_at: '2014-12-11'
+    punchline: Making ends meet
+    what: what is it called when you tie rope for a living
+  - author: Michal Piekarczyk
+    created_at: '2014-12-10'
+    punchline: No pressure.
+    what: why shouldnt you worry about being in a vacuum
+  - author: Michal Piekarczyk
+    created_at: '2016-07-01'
+    punchline: Because they take things. Literally.
+    what: why shouldnt you be sarcastic with a kleptomaniac
+  - author: Michal Piekarczyk
+    created_at: '2015-01-13'
+    punchline: A gag order reflex
+    what: what do you call your gut reaction when someone tries to quiet you
+  - author: Michal Piekarczyk
+    created_at: '2014-12-18'
+    punchline: Because she was learning to program shell code
+    what: why was ariel singing about a whole new world
+  - author: Michal Piekarczyk
+    created_at: '2015-02-02'
+    punchline: Gratuity.
+    what: why did man curse out his server after dinner
+  - author: Michal Piekarczyk
+    created_at: '2015-01-01'
+    punchline: Clam on the rocks
+    what: what kind of drinks do seagulls order
+  - author: Michal Piekarczyk
+    created_at: '2015-02-17'
+    punchline: Self serve ice cream
+    what: whats ice cream that doesnt care about you
+  - author: Michal Piekarczyk
+    created_at: '2015-02-26'
+    punchline: not not jokes
+    what: what are double negative jokes
+  - author: Michal Piekarczyk
+    created_at: '2014-12-25'
+    punchline: Consult your gut
+    what: how can you really be confident you didnt get stabbed today
+  - author: Michal Piekarczyk
+    created_at: '2015-01-26'
+    punchline: Well then.
+    what: when convinced that compared to a swimming pool a water hole would be better
+      what did the man say
+  - author: Michal Piekarczyk
+    created_at: '2015-01-07'
+    punchline: The local Protein fold and wash.
+    what: where do young biochem students bring their laundry
+  - author: Michal Piekarczyk
+    created_at: '2015-02-15'
+    punchline: Time flies
+    what: what do you day when you are surprised with 5th dimensional insects
+  - author: Michal Piekarczyk
+    created_at: '2015-06-21'
+    punchline: immoral comms bat
+    what: whats another name for a crappy carrier pigeon sounds like old times arcade
+      game
+  - author: Michal Piekarczyk
+    created_at: '2015-01-07'
+    punchline: You&#8217;re up to your third draft
+    what: how do you know youre getting better at breaking wind
+  - author: Michal Piekarczyk
+    created_at: '2014-12-18'
+    punchline: A good one liner
+    what: what kind of code do you write to make people laugh
+  - author: Michal Piekarczyk
+    created_at: '2014-12-14'
+    punchline: Branch hours
+    what: what do you call the time when birds are allowed on a tree
+  - author: Michal Piekarczyk
+    created_at: '2015-01-18'
+    punchline: An average pass
+    what: what does a statistician call it when a football pass hits dirt between two
+      receivers
+  - author: Michal Piekarczyk
+    created_at: '2015-01-05'
+    punchline: Pigeonation
+    what: what is it called when pigeons fly in small groups
+  - author: Michal Piekarczyk
+    created_at: '2014-12-11'
+    punchline: By telling inside voice jokes
+    what: how do you offend loud comedians
+  - author: Michal Piekarczyk
+    created_at: '2014-12-21'
+    punchline: Fight club
+    what: whats a movie you cane talk about it even if everyone has seen it
+  - author: Michal Piekarczyk
+    created_at: '2015-03-04'
+    punchline: a beer hallway
+    what: where do you drink on the way to your dining room
+  - author: Michal Piekarczyk
+    created_at: '2015-01-06'
+    punchline: Win a giraffle
+    what: how do you get a jungle animal by chance
+  - author: Michal Piekarczyk
+    created_at: '2015-04-19'
+    punchline: rrrreaaaaar&#8230;. rrrrreaaaaaaaar
+    what: what do cats say when theyre in the back of your car
+  - author: Michal Piekarczyk
+    created_at: '2015-03-22'
+    punchline: a monolog
+    what: what is it called when a tree falls in the forest and someone hears
+  - author: Michal Piekarczyk
+    created_at: '2015-01-23'
+    punchline: Field trip
+    what: whats getting high while young called
+  - author: Michal Piekarczyk
+    created_at: '2014-12-19'
+    punchline: Team work
+    what: what is it called when three physicists push a car up a hill
+  - author: Michal Piekarczyk
+    created_at: '2014-12-17'
+    punchline: They should fat finger it
+    what: how do you tell your bartender to give you more bourbon than usual by accident
+  - author: Michal Piekarczyk
+    created_at: '2014-12-11'
+    punchline: Just add an infinitum to it.
+    what: how do you blow up an online shopping cart
+  - author: Michal Piekarczyk
+    created_at: '2015-02-19'
+    punchline: When there is yellow caution snow
+    what: how do you know when snow is too dangerous to pass over
+  - author: Michal Piekarczyk
+    created_at: '2015-01-16'
+    punchline: All the kids are wearing ear muffs
+    what: how do you know its a cold world out there
+  - author: Michal Piekarczyk
+    created_at: '2015-05-05'
+    punchline: because it&#8217;s the thought that counts&nbsp;
+    what: why dont we hear ourselves doing math most times
+  - author: Michal Piekarczyk
+    created_at: '2014-12-07'
+    punchline: Because when you throw shade on them they fade away.
+    what: how do we know tomatoes are sensitive creatures
+  - author: Michal Piekarczyk
+    created_at: '2014-12-14'
+    punchline: Flip flaps.
+    what: what kind of slippers do birds wear
+  - author: Michal Piekarczyk
+    created_at: '2015-01-08'
+    punchline: We don&#8217;t know he got cut off
+    what: what did the piece of paper say
+  - author: Michal Piekarczyk
+    created_at: '2015-02-09'
+    punchline: The back-blog
+    what: what is the list of blog posts called that you have in draft
+  - author: Michal Piekarczyk
+    created_at: '2014-12-25'
+    punchline: Pillow
+    what: whats the plural of geese
+  - author: Michal Piekarczyk
+    created_at: '2015-01-06'
+    punchline: Subourbon
+    what: what do you call whiskey from city outskirts
+  - author: Michal Piekarczyk
+    created_at: '2015-04-10'
+    punchline: Process of elimination&nbsp;
+    what: whats it called when a country is really bad at warfare is really bad at warfare
+      but keeps on trying til they get it right
+  - author: Michal Piekarczyk
+    created_at: '2014-12-09'
+    punchline: They tell you about their lalalabi
+    what: what do toddlers say when you ask them to substantiate their past whereabouts
+  - author: Michal Piekarczyk
+    created_at: '2016-07-22'
+    punchline: You go to the giraffe, and tell it that it&#8217;s a vegetarian
+    what: how do you tell a giraffe its a vegetarian
+  - author: Michal Piekarczyk
+    created_at: '2014-12-11'
+    punchline: Bipolar bears .
+    what: which bears will only sometimes attack you
+  - author: Michal Piekarczyk
+    created_at: '2014-12-18'
+    punchline: Daily updates
+    what: what are time machines from a software point of view
+  - author: Michal Piekarczyk
+    created_at: '2014-12-11'
+    punchline: A Freudian slip
+    what: what is it called when a psychologist falls
+  - author: Michal Piekarczyk
+    created_at: '2015-01-06'
+    punchline: By blurring the lines of equality (you get &#8212; ).
+    what: how do you get less than equality
+  - author: Michal Piekarczyk
+    created_at: '2015-01-30'
+    punchline: Rob
+    what: what was the name of the first burglar
+  - author: Michal Piekarczyk
+    created_at: '2015-04-19'
+    punchline: flea market
+    what: where do dogs go on the weekends to shop for new coats
+  - author: Michal Piekarczyk
+    created_at: '2014-12-25'
+    punchline: The face palm
+    what: whats a good tree for making sunglasses
+  - author: Michal Piekarczyk
+    created_at: '2014-12-07'
+    punchline: Back to the future
+    what: what is an 80s movie title that reads like walking backwards
+  - author: Michal Piekarczyk
+    created_at: '2014-12-29'
+    punchline: When they emit quarks
+    what: how do particle physicists known when ducks lose mass
+  - author: Michal Piekarczyk
+    created_at: '2014-12-09'
+    punchline: There&#8217;s a nap for that.
+    what: when youre tired
+  - author: Michal Piekarczyk
+    created_at: '2014-12-30'
+    punchline: They are in deep thought
+    what: what called when someone is thinking about reinventing the shovel
+  - author: Michal Piekarczyk
+    created_at: '2015-01-15'
+    punchline: Bartenders. They&#8217;re always grasping at straws
+    what: which people are often building flimsy arguments
+  - author: Michal Piekarczyk
+    created_at: '2015-03-01'
+    punchline: '*cough cough*'
+    what: how does a contagious innuendo start off like
+  - author: Michal Piekarczyk
+    created_at: '2014-12-12'
+    punchline: It&#8217;s all low brow humor
+    what: by definition what kind of jokes do neanderthals make
+  - author: Michal Piekarczyk
+    created_at: '2015-01-01'
+    punchline: Bleu
+    what: what cheese is popular with vampires
+  - author: Michal Piekarczyk
+    created_at: '2015-02-05'
+    punchline: Quesadilla
+    what: how do you say day package in spanish
+  - author: Michal Piekarczyk
+    created_at: '2015-01-15'
+    punchline: What are you looking at, you palm reader.
+    what: what did the ignoramus say to the deaf person
+  - author: Michal Piekarczyk
+    created_at: '2014-12-25'
+    punchline: Wise crack
+    what: what is another wording for sophisticated booty
+  - author: Michal Piekarczyk
+    created_at: '2015-01-25'
+    punchline: Banannies
+    what: what fruit would you trust your kids with
+  - author: Michal Piekarczyk
+    created_at: '2014-12-12'
+    punchline: Passive aggressive.
+    what: what is the psychological analysis of a drive by
+  - author: Michal Piekarczyk
+    created_at: '2015-01-25'
+    punchline: Low end bee hold
+    what: whats it called when someone is stung at the end of a magic trick
+  - author: Michal Piekarczyk
+    created_at: '2015-03-06'
+    punchline: they are part of the food chain
+    what: why are sausage links so popular
+  - author: Michal Piekarczyk
+    created_at: '2015-03-29'
+    punchline: laundrama&nbsp;
+    what: what is it called when someone steals your clothing from the washing machine
+  - author: Michal Piekarczyk
+    created_at: '2015-03-14'
+    punchline: dine and dash&nbsp;
+    what: what should stealing restaurant salt be called
+  - author: Michal Piekarczyk
+    created_at: '2014-12-14'
+    punchline: Two Funny
+    what: what do you call it when you say more than one joke at a time
+  - author: Michal Piekarczyk
+    created_at: '2015-02-01'
+    punchline: polio shirt
+    what: what clothing do you pop your collar on to honor bringing back old diseases
+      which humanity has once gotten rid of
+  - author: Michal Piekarczyk
+    created_at: '2015-02-27'
+    punchline: when the cows come home.
+    what: when does the vacation end
+  - author: Michal Piekarczyk
+    created_at: '2014-12-30'
+    punchline: Wouldn&#8217;t you like to know. Well then,you&#8217;re not a robot.
+    what: what do you get for passing a turing test
+  - author: Michal Piekarczyk
+    created_at: '2014-12-19'
+    punchline: Four reels
+    what: how much space do documentaries usually take up
+  - author: Michal Piekarczyk
+    created_at: '2015-01-17'
+    punchline: When buying a horse online
+    what: when is horse before cart important
+  - author: Michal Piekarczyk
+    created_at: '2014-12-06'
+    punchline: ''
+    what: fitbit in the wash data
+  - author: Michal Piekarczyk
+    created_at: '2014-12-12'
+    punchline: Sequestration
+    what: what do you call when you put horses into confinement
+  - author: Michal Piekarczyk
+    created_at: '2014-12-30'
+    punchline: I see where this is going
+    what: what did the traffic camera say when seeing a car that was driving down the
+      road
+  - author: Michal Piekarczyk
+    created_at: '2015-01-23'
+    punchline: An out of buddy experience
+    what: when you have empathy for your friend what do you really have
+  - author: Michal Piekarczyk
+    created_at: '2015-01-18'
+    punchline: Salt and pepper spray
+    what: what do chefs carry for self defense
+  - author: Michal Piekarczyk
+    created_at: '2014-12-30'
+    punchline: Have your friend place a glass of cold water down, without telling you
+      where.
+    what: whats an easy way to heat up water with logic
+  - author: Michal Piekarczyk
+    created_at: '2015-01-19'
+    punchline: The grace period
+    what: during thanksgiving what is it called when you dont eat waiting for someone
+      else to show up at the table
+  - author: Michal Piekarczyk
+    created_at: '2014-12-11'
+    punchline: Narco Polo
+    what: what game does the drug enforcement agency play essentially
+  - author: Michal Piekarczyk
+    created_at: '2014-12-13'
+    punchline: '&#8230;a whole other animal'
+    what: food allergies are one thing but cat allergies
+  - author: Michal Piekarczyk
+    created_at: '2015-03-28'
+    punchline: caution the contents is hot
+    what: what is a good sub title for a book about coffee
+  - author: Michal Piekarczyk
+    created_at: '2015-01-26'
+    punchline: They are too much up front
+    what: why is it good to finance kangaroos
+  - author: Michal Piekarczyk
+    created_at: '2015-01-01'
+    punchline: Don&#8217;t do this! They are majestic creatures
+    what: how do you properly shoot a desert eagle
+  - author: Michal Piekarczyk
+    created_at: '2015-02-03'
+    punchline: Sub lumenal
+    what: whats a light bulb you instinctively know is not bright enough
+  - author: Michal Piekarczyk
+    created_at: '2015-01-30'
+    punchline: Sure I&#8217;ll give it a whorl.
+    what: when asked to submit her finger to the ink for fingerprinting what did the
+      woman say
+  - author: Michal Piekarczyk
+    created_at: '2014-12-11'
+    punchline: Have a good delivery.
+    what: whats the most important part about telling a good pregnancy joke
+  - author: Michal Piekarczyk
+    created_at: '2016-09-24'
+    punchline: we'll take it from there
+    what: whats an awesome tagline for a moving service
+  - author: Michal Piekarczyk
+    created_at: '2016-10-04'
+    punchline: riddle snakes
+    what: which snakes are good at solving puzzles
+  - author: Michal Piekarczyk
+    created_at: '2016-04-12'
+    punchline: 'Reading between the lions '
+    what: What is a dangerous reading habit
+  - author: Michal Piekarczyk
+    created_at: '2016-06-02'
+    punchline: 'its spanish for The evader '
+    what: 'what is Elevator '
+  - author: Michal Piekarczyk
+    created_at: '2016-09-24'
+    punchline: toe jam
+    what: 'What''s one good thing comes from foot traffic '
+  - author: Michal Piekarczyk
+    created_at: '2016-08-06'
+    punchline: 'Yes. They used to call it hit and run '
+    what: 'Did baseball used to be dangerous '
+  - author: Michal Piekarczyk
+    created_at: '2016-11-18'
+    punchline: when they're drinking for two
+    what: 'Why does one get a beer belly '
+  - author: Michal Piekarczyk
+    created_at: '2016-02-07'
+    punchline: They use a medal detector
+    what: 'What does someone do who trying to find a successful olympian '
+  - author: Michal Piekarczyk
+    created_at: '2016-11-07'
+    punchline: The heavy metals
+    what: They were into water purification, so what did the friends call their band
+  - author: Michal Piekarczyk
+    created_at: '2016-10-12'
+    punchline: For the security sweep
+    what: Why did the new SWAT team member bring a broom
+  - author: Michal Piekarczyk
+    created_at: '2016-11-16'
+    punchline: '*cough cough*'
+    what: 'How does a contagious innuendo start off like '
+  - author: Michal Piekarczyk
+    created_at: '2016-03-08'
+    punchline: 'By finding the rate of interest '
+    what: How does a physicist calculate an interest rate
+  - author: Michal Piekarczyk
+    created_at: '2016-03-31'
+    punchline: Because it was for a Discretionary mathematics class
+    what: Why didn't the pupil do the math homework
+  - author: Michal Piekarczyk
+    created_at: '2016-10-05'
+    punchline: A pio pio box
+    what: What is a private mailing address in Peru called
+  - author: Michal Piekarczyk
+    created_at: '2016-02-25'
+    punchline: The five second rule.
+    what: What do you call the shortest monarchy in history
+  - author: Michal Piekarczyk
+    created_at: '2016-03-22'
+    punchline: A credit burrow
+    what: What is a squirrel with lending ability from a hole in the ground called
+
+
+
+#  - author: Michal Piekarczyk
+#    created_at: '2014-12-18'
+#    punchline: 'Fill in your details below or click an icon to log in:'
+#    what: chestnuts roasting in an %f0%9f%8eopen file cabinet
