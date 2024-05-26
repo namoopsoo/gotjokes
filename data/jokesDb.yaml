@@ -434,8 +434,10 @@ jokes:
     punchline: A credit burrow
     what: What is a squirrel with lending ability from a hole in the ground called
 
-
-
+  - author: Michal Piekarczyk
+    created_at: '2024-05-25'
+    punchline: Because he thought he was driving on "read only" streets.
+    what: why did the sys admin only make left turns driving to work?
 #  - author: Michal Piekarczyk
 #    created_at: '2014-12-18'
 #    punchline: 'Fill in your details below or click an icon to log in:'
