@@ -1,7 +1,9 @@
 <ul>
 {{ range .jokes }}
 <li><a href="#" class="joke" style="box-shadow: 0 0px; font-style: italic" >🧐: {{ .what }}</a>
-    <div class="punchline" style="color: #6495ED">😀: {{ .punchline }}</div></li>
+   <div class="punchline" style="color: #6495ED">😀: {{ .punchline }}
+        <br/>
+        <div style="font-size: smaller; color: green">by {{ .author}}</div></div></li>
 {{ end }}
 </ul>
 
