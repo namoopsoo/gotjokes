@@ -437,10 +437,15 @@ jokes:
     created_at: '2024-05-25'
     punchline: Because he thought he was driving on "read only" streets.
     what: why did the sys admin only make left turns driving to work?
-  - what: do you think its good to take a questionnaire?
+  - author: Michal Piekarczyk
+    what: do you think its good to take a questionnaire?
     punchline: I dont question air, I just breathe it
     draft: true
     created_at: 2024-05-29
+  - author: Dhruv
+    created_at: 2024-05-30
+    what: Did you hear about the scheduling mixup resulting delay at Formula 1?
+    punchline: It was a race condition!
   - author: Michal Piekarczyk
     created_at: '2024-06-01'
     what: (Somewhere at a Wework:) Where can I get a good coffee around here?
