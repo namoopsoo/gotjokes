@@ -433,6 +433,12 @@ jokes:
     created_at: '2016-03-22'
     punchline: A credit burrow
     what: What is a squirrel with lending ability from a hole in the ground called
+
+  - what: Why was the qa engineer not sure what was going to happen in her final moments?
+    punchline: She was diagnostic
+    author: Dhruv
+    created_at: 2024-05-25
+
   - author: Michal Piekarczyk
     created_at: '2024-05-25'
     punchline: Because he thought he was driving on "read only" streets.
