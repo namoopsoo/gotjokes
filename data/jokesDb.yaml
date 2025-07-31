@@ -1,4 +1,4 @@
-jokes:
+Ujokes:
   - author: Michal Piekarczyk
     created_at: '2014-12-30'
     punchline: An erroar
@@ -472,4 +472,6 @@ jokes:
     note: haha this joke is probably so obvious it must have been discovered by many people as Ricky Gervais would say 😅
 😅
 
-
+  - author: Michal Piekarczyk
+    what: good enough water system
+    punchline: aduquaduct
