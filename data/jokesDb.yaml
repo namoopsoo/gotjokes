@@ -1,3 +1,4 @@
+
 jokes:
   - author: Michal Piekarczyk
     created_at: '2014-12-30'
@@ -471,3 +472,9 @@ jokes:
     what: good enough water system
     punchline: adequaduct
     created_at: 2025-07-31
+
+  - author: Michal Piekarczyk
+    what: what does a data scientist call it when they see someone who fell off a tree after attempting to climb it?
+    punchline: ground truth
+    creatwd_at: 2026-04-30
+
