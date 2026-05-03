@@ -476,5 +476,12 @@ jokes:
   - author: Michal Piekarczyk
     what: what does a data scientist call it when they see someone who fell off a tree after attempting to climb it?
     punchline: ground truth
-    creatwd_at: 2026-04-30
+    created_at: 2026-04-30
+
+  - author: Michal Piekarczyk
+    what: what would a statistician  call the great replacement theory?
+    punchline: the great without-replacement theory 
+    created_at: 2026-05-02
+
+
 
